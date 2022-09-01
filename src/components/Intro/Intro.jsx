@@ -11,12 +11,12 @@ import Github from "../../img/github.png";
 import LinkedIn from "../../img/linkedin.png";
 
 import { themeContext } from "../../Context";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 // import { Link } from "react-scroll";
-import {Link} from "react-router-dom";
+
 const Intro = () => {
   // Transition
-  const transition = { duration: 2, type: "spring" };
+//   const transition = { duration: 2, type: "spring" };
 
   // context
   const theme = useContext(themeContext);

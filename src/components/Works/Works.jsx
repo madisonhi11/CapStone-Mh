@@ -8,7 +8,7 @@ import JS from "../../img/NODEjs.png";
  import HTML from "../../img/HTML.png";
  import REACT from "../../img/REACT.webp";
 //  import MYSQL from "@iconscout/react-unicons/icons/uil-";
-import {Link} from 'react-scroll'
+// import {Link} from 'react-scroll'
 const Works = () => {
   // context
   const theme = useContext(themeContext);
